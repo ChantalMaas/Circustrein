@@ -1,0 +1,16 @@
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\bin\Debug\net5.0\Circustreinchallenge.exe
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\bin\Debug\net5.0\Circustreinchallenge.deps.json
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\bin\Debug\net5.0\Circustreinchallenge.runtimeconfig.json
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\bin\Debug\net5.0\Circustreinchallenge.runtimeconfig.dev.json
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\bin\Debug\net5.0\Circustreinchallenge.dll
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\bin\Debug\net5.0\ref\Circustreinchallenge.dll
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\bin\Debug\net5.0\Circustreinchallenge.pdb
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\Circustreinchallenge.csprojAssemblyReference.cache
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\Circustreinchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\Circustreinchallenge.AssemblyInfoInputs.cache
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\Circustreinchallenge.AssemblyInfo.cs
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\Circustreinchallenge.csproj.CoreCompileInputs.cache
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\Circustreinchallenge.dll
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\ref\Circustreinchallenge.dll
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\Circustreinchallenge.pdb
+C:\Users\rakke\source\repos\Circustreinchallenge\Circustreinchallenge\obj\Debug\net5.0\Circustreinchallenge.genruntimeconfig.cache
